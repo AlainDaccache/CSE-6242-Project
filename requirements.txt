@@ -4,3 +4,4 @@ plotly==5.24.0
 pandas
 fuzzywuzzy
 python-Levenshtein
+ipython
